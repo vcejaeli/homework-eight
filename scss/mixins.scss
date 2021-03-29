@@ -1,0 +1,13 @@
+@mixin roundButton($btnPadding: 9px 25px, $btnRadius: 50px, $btnBorder: none, $btnTransition: all 0.3s ease 0s, $btnCursor: pointer, $btnText: #fff, $btnColor: $indiaGreen) {
+    padding: $btnPadding;
+    border-radius: $btnRadius;
+    border: $btnBorder;
+    transition: $btnTransition;
+    cursor: $btnCursor;
+    color: $btnText;
+    background-color: $btnColor;
+}
+@mixin buttonEffect($btnFxRadius: 4px, $btnFxColor: $indiaOrange) {
+    border-radius: $btnFxRadius;
+    background-color: $btnFxColor;
+}

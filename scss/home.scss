@@ -1,0 +1,61 @@
+.home {
+    margin: 0 auto;
+    max-width: 1200px;
+    height: 800px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: linear-gradient(to right, $blackOverlay, $blackOverlay) ,url(../assets/images/viewRestaurant.jpg);
+    // background-color: rebeccapurple;
+
+
+    .rest {
+        max-width: 1200px;
+        height: 500px;
+
+        // background-color: aquamarine;
+        .resttext {
+            max-width: 550px;
+            margin: 0 auto;
+            padding-top: 20%;
+            // padding-bottom: 50%;
+            // background-color: cadetblue;
+
+            //headers and button
+            .headsAndBtn {
+                text-align: center;
+                font-size: 30px;
+                color: #fff;
+                // text-transform: uppercase;
+
+                .heads  ,h2 ,h3 {
+                    color: $indiaOrange;
+                }
+                
+                button {
+                    @include roundButton(10px 10px, 15px);
+                }
+                button:hover {
+                    @include buttonEffect();  
+                }
+                button:focus {
+                    outline: none;
+                }
+            }
+        }
+    }
+}
+
+
+
+//CHANGE LATER
+// @media all and (max-width: 900px){
+//     .tour {
+//         .tours {
+//             flex-direction: column;
+//             align-items: center;
+//             // background-color: orange;
+//         }
+//     }
+// }

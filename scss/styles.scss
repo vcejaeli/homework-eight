@@ -1,0 +1,14 @@
+//mains
+@import "variables.scss";
+@import "mixins.scss";
+@import "structure.scss";
+
+//nav and footer
+@import "nav.scss";
+@import "footer.scss";
+
+//pages
+@import "home.scss";
+@import "about.scss";
+@import "menu.scss";
+@import "contact.scss";
