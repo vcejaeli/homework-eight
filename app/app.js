@@ -47,7 +47,7 @@ var menuContent = `<!-- menu content -->
         <div class="single-menu">
             <img src="assets/images/images-menu/menu-02.jpg" alt="">
             <div class="menu-content">
-                <h4>butter chicken curry <span>$14</span></h4>
+                <h4>chicken tikka masala <span>$14</span></h4>
                 <p>Our staple of delicious flavors and mixes of spices will leave you wanting more with this order of our food dishes.</p>
             </div>
         </div>
@@ -55,7 +55,7 @@ var menuContent = `<!-- menu content -->
         <div class="single-menu">
             <img src="assets/images/images-menu/menu-03.jpg" alt="">
             <div class="menu-content">
-                <h4>butter chicken curry <span>$25</span></h4>
+                <h4>biryani <span>$25</span></h4>
                 <p>Our staple of delicious flavors and mixes of spices will leave you wanting more with this order of our food dishes.</p>
             </div>
         </div>
@@ -63,7 +63,7 @@ var menuContent = `<!-- menu content -->
         <div class="single-menu">
             <img src="assets/images/images-menu/menu-04.jpg" alt="">
             <div class="menu-content">
-                <h4>butter chicken curry <span>$20</span></h4>
+                <h4>chicken curry <span>$20</span></h4>
                 <p>Our staple of delicious flavors and mixes of spices will leave you wanting more with this order of our food dishes.</p>
             </div>
         </div>
@@ -71,7 +71,7 @@ var menuContent = `<!-- menu content -->
         <div class="single-menu">
             <img src="assets/images/images-menu/menu-02.jpg" alt="">
             <div class="menu-content">
-                <h4>butter chicken curry <span>$16</span></h4>
+                <h4>pork curry <span>$16</span></h4>
                 <p>Our staple of delicious flavors and mixes of spices will leave you wanting more with this order of our food dishes.</p>
             </div>
         </div>
@@ -87,7 +87,7 @@ var menuContent = `<!-- menu content -->
         <div class="single-menu">
             <img src="assets/images/images-menu/menu-04.jpg" alt="">
             <div class="menu-content">
-                <h4>butter chicken curry <span>$25</span></h4>
+                <h4>tandoori chicken <span>$25</span></h4>
                 <p>Our staple of delicious flavors and mixes of spices will leave you wanting more with this order of our food dishes.</p>
             </div>
         </div>
@@ -95,7 +95,7 @@ var menuContent = `<!-- menu content -->
         <div class="single-menu">
             <img src="assets/images/images-menu/menu-03.jpg" alt="">
             <div class="menu-content">
-                <h4>butter chicken curry <span>$20</span></h4>
+                <h4>gulab jamun <span>$20</span></h4>
                 <p>Our staple of delicious flavors and mixes of spices will leave you wanting more with this order of our food dishes.</p>
             </div>
         </div>
